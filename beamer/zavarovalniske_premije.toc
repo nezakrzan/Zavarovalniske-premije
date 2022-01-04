@@ -1,0 +1,7 @@
+\babel@toc {slovene}{}
+\beamer@sectionintoc {1}{Zavarovalna premija}{2}{0}{1}
+\beamer@sectionintoc {2}{Čista premija}{4}{0}{2}
+\beamer@sectionintoc {3}{Verjetnost propada}{5}{0}{3}
+\beamer@sectionintoc {4}{Principi računanja zavarovalnih premij}{14}{0}{4}
+\beamer@sectionintoc {5}{Simulacija}{16}{0}{5}
+\beamer@sectionintoc {6}{Zaključek}{22}{0}{6}
